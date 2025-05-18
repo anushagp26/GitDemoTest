@@ -8,7 +8,7 @@ public class RemoveDuplicateArray {
 	public static void main(String[] args) {
 		
 		//int a[] = {5,5,2,8};
-		String[] a= {"a","c","a","b","f","f"};
+		String[] a= {"a","c","a","b","f","g"};
 
 		// LinkedHashSet<Integer> set = new LinkedHashSet<Integer>();
 		// TreeSet<Integer> set = new TreeSet<Integer>();
