@@ -22,6 +22,8 @@ public class RemoveDuplicateArray {
 
      System.out.print("123456");
      System.out.print("asdabghjgfeydgfcbhn");
+     System.out.print("123456215454sfdff");
+		
 
 	}
 
