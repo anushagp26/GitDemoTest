@@ -19,6 +19,7 @@ public class RemoveDuplicateArray {
      
      System.out.print(set);
      
+     System.out.print("123456");
 		
 
 	}
