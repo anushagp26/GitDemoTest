@@ -9,7 +9,7 @@ public class RemoveDuplicateArray {
 		
 		//int a[] = {5,5,2,8};
 
-		String[] a= {"a","c","a","b","f","g"};
+		String[] a= {"a","c","a","b","f","g","ASDs"};
 
 		
 
